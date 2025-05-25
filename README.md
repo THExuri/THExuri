@@ -4,7 +4,9 @@
 
 <br clear="both">
 
-<p align="left">[我的博客](https://weiyuping.top/)<br>我在学习<br>Java C++ HTML <br>虽然进度缓慢<br>你可以来我的博客申请友联哦！</p>
+[我的博客](https://weiyuping.top/)
+我在学习Java C++ HTML 虽然进度缓慢
+你可以来我的博客申请友联哦！
 
 ###
 
